@@ -534,6 +534,23 @@
         "CSS3","bootstrap-js",
         "Ruby on Rails","Ruby","Mover.io","Productivity"
       ]
+    },
+    {
+      "name": "Trailers for Netflix",
+      "thumb": "trailers-for-netflix/thumb.png",
+      "desc": "Trailers for Movies in Netflix Instant Streaming",
+      "url": "http://www.trailersfornetflix.com/",
+      "info": "http://willowbend.cx/2012/11/17/announcing-trailers-for-netflix/",
+      "submitter": "darrint", // your github username
+      "submissionDate": "2012-11-17", // current date in ISO format
+      "tags": [
+        "Production",
+        "Entertainment",
+        "Video", "Bootstrap",
+        "jQuery",
+        "Entertainment", "Movies", "Trailers", "Netflix",
+        "Trailers for Netflix"
+      ]
     }
   ]
 }
